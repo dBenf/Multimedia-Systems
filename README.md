@@ -10,4 +10,4 @@ The project has been completely developed in **C#**. The complete application de
 
 The 3D structure of the museum was built using **SketchUp** and then imported in Unity.
 
-A demo video can be found at this [link](ciao)
+A demo video can be found at this [link](https://www.youtube.com/watch?v=o29qgv6QA-Y)
