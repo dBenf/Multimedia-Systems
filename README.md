@@ -9,3 +9,5 @@ The project has been completely developed in **C#**. The complete application de
 - A frontend application intended for use by museum's management team. With this application they can visualize paths of visitors inside the museum giving a record of paths in input. It is possible to filter the data to visualize based on different criteria. 
 
 The 3D structure of the museum was built using **SketchUp** and then imported in Unity.
+
+A demo video can be found at this [link](ciao)
